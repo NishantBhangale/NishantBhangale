@@ -1,3 +1,13 @@
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2088FF&center=true&vCenter=true&width=600&lines=QA+Engineer+%E2%86%92+DevOps+Engineer;6.5%2B+Years+in+Testing%2C+Now+Automating+Infra;Docker+%7C+Kubernetes+%7C+CI%2FCD+%7C+Terraform;Building+Pipelines%2C+One+Deploy+at+a+Time" alt="Typing SVG" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=NishantBhangale&color=2088FF&style=for-the-badge)
+
+</div>
+
+---
+
 ## 🚀 About Me
 
 Hey, I'm **Nishant** 👋 — a QA professional with **6.5+ years** of breaking things (professionally) who's now leveling up to **build and automate them** as a DevOps Engineer.
